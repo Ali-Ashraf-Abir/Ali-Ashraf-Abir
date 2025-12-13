@@ -16,13 +16,12 @@
 
 ## About Me
 
-- **Age:** 19
+- **Age:** 23
 - **Location:** Bangladesh
 - **Current Status:** Computer Science Student
 - **Experience:** 1 year of professional development experience
 - **Goal:** Full-stack developer seeking full-time opportunities
-- **Personality Type (MBTI):** INTP
-- **Fun Fact:** When I'm not glued to coding, you might find me solving a Rubik's Cube, playing online games or badminton, doodling, listening to music, watching Korean series, reading webtoons, or searching for random things on Google.
+- **Fun Fact:** When I'm not glued to coding, you might find me solving a Rubik's Cube, or searching for random things on Google, or spending my sweet time watching tech genius youtubers do their amazing things.
 
 ---
 
