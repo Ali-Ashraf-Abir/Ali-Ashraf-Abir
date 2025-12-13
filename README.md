@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]
+# Hi there, I'm Ali Ashraf Abir
 
 ## Full-Stack Web Developer | Computer Science Student
 
@@ -12,7 +12,7 @@ I'm a passionate full-stack developer with 1 year of professional experience bui
 - I'm currently learning advanced system design and cloud architecture
 - 1 year of professional development experience
 - Seeking full-time opportunities as a Full-Stack Developer
-- How to reach me: **[your.email@example.com]**
+- How to reach me: **aliashrafabir19@gmail.com**
 
 ---
 
@@ -48,11 +48,11 @@ I'm a passionate full-stack developer with 1 year of professional experience bui
 
 ### GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ali-Ashraf-Abir&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Ashraf-Abir&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ali-Ashraf-Abir&theme=radical)
 
 ---
 
@@ -79,10 +79,9 @@ Real-time collaboration platform with instant messaging and team management
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](your-portfolio-url)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/ali-ashraf-722612278)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aliashrafabirportfolio.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliashrafabir19@gmail.com)
 
 ---
 
@@ -95,8 +94,8 @@ Technical discussions and networking
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Ali-Ashraf-Abir&color=blueviolet&style=for-the-badge)
 
 ---
 
-⭐️ From [YourGitHubUsername](https://github.com/YourGitHubUsername)
+⭐️ From [Ali-Ashraf-Abir](https://github.com/Ali-Ashraf-Abir)
