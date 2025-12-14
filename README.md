@@ -96,7 +96,6 @@
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ali-Ashraf-Abir&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Ashraf-Abir&layout=compact&theme=radical)
 
